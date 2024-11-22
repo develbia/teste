@@ -1,0 +1,41 @@
+body{
+text-align: center;
+background-image: url(images/download.jpg);
+}
+
+h1{
+    background-color: #4C1F7A;
+    border-radius: 5px;
+    color: aliceblue;
+    text-shadow: 5px 2px 5px black;
+    box-shadow: 5px 2px 5px black;
+}
+
+img
+{
+    background-color: blanchedalmond ;
+    border-radius: 5px;
+    box-shadow: 5px 2px 5px black;
+}
+
+h2{
+    background-color: #4C1F7A;
+    border-radius: 5px;
+    color: aliceblue;
+    text-shadow: 5px 2px 5px black;
+    box-shadow: 5px 2px 5px black;
+}
+
+
+iframe
+{
+    
+    border-radius: 5px;
+}
+
+.paragrafo{
+    color: aliceblue;
+    text-align: center;
+    background-color: blueviolet;
+    text-shadow: 5px 2px 5px black;
+}
